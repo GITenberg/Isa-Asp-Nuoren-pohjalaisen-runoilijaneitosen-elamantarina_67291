@@ -1,0 +1,31 @@
+_repo: Isa-Asp-Nuoren-pohjalaisen-runoilijaneitosen-elamantarina_67291
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setala, Helmi
+    - Setälä, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+description: ''
+gutenberg_issued: '2022-01-31'
+identifiers:
+  gutenberg: '67291'
+language: fi
+pgterms:marc905: 20211218090750setl
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: Finland :Otava,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Isa Asp: Nuoren pohjalaisen runoilijaneitosen elämäntarina'
+url: http://www.gutenberg.org/ebooks/67291
