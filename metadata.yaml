@@ -1,5 +1,8 @@
 _repo: Isa-Asp-Nuoren-pohjalaisen-runoilijaneitosen-elamantarina_67291
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Krohn, Helmi
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31724
     wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67291#Isa-Asp-Nuoren-pohjalaisen-runoilijaneitosen-elamantarina
 gutenberg_issued: '2022-01-31'
 identifiers:
   gutenberg: '67291'
